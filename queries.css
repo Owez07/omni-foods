@@ -85,7 +85,7 @@
     .works-step{margin-bottom: 20px;}
     .works-step:last-of-type{margin-bottom: 20px;}
     .btn-app img{
-        height:35px;
+        height:30px;
 }
 /* small phones */
 @media only screen and (max-width: 480px){
